@@ -1,0 +1,1 @@
+Entscheidung ob Rechts oder Linksdrehung -> Verfolgen der Hand.

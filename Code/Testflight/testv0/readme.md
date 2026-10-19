@@ -1,0 +1,1 @@
+This test arms the drone and disarms it afterwards again.

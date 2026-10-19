@@ -1,0 +1,1 @@
+This is the test to arm, takeoff the drone, go to 20 Meters and back down.

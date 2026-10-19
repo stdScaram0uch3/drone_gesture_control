@@ -1,0 +1,1 @@
+Die v1 enthält die Hand-Positionserkennung mit Bounding Box und Entscheidung über links, rechts oder nichts (um diese später weiter zu geben).

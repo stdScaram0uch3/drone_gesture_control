@@ -1,0 +1,1 @@
+Drehung mit der Drohne in eine Richtung, falls der Mittelfinger die am meisten rechte oder linke Landmark ist.
